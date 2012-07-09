@@ -20,6 +20,10 @@ or
 * Android Porting Guide (obsolete!): http://www.kandroid.org/online-pdk/guide/index.html
 * Binder driver overview: http://lukejin.wordpress.com/2011/03/13/android%E4%B8%AD%E7%9A%84binder/
 * Description of native Binder use: http://www.scribd.com/doc/24499613/Android-IPC-Binder
+* Android Internals: http://mrkn.co/anincw
+* ZIP of Android Internals: http://mrkn.co/anincwz
+* Android Security: http://mrkn.co/ansecw
+* ZIP of Android Security: http://mrkn.co/ansecwz
 
 
 == Course Survey
