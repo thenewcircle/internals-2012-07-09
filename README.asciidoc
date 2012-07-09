@@ -15,9 +15,12 @@ or
 
 == Useful Links
 
+* Codenames, Tags, and Build Numbers: http://source.android.com/source/build-numbers.html
+* Wikipedia Android version history: http://en.wikipedia.org/wiki/Android_version_history
 * Android Porting Guide (obsolete!): http://www.kandroid.org/online-pdk/guide/index.html
 * Binder driver overview: http://lukejin.wordpress.com/2011/03/13/android%E4%B8%AD%E7%9A%84binder/
 * Description of native Binder use: http://www.scribd.com/doc/24499613/Android-IPC-Binder
+
 
 == Course Survey
 
