@@ -24,6 +24,7 @@ or
 * ZIP of Android Internals: http://mrkn.co/anincwz
 * Android Security: http://mrkn.co/ansecw
 * ZIP of Android Security: http://mrkn.co/ansecwz
+* Graphic Display Resolutions: http://en.wikipedia.org/wiki/Graphic_display_resolutions
 
 
 == Course Survey
